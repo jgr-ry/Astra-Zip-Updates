@@ -1,0 +1,59 @@
+Astra Zip — Licencia de uso / End-user licence
+© 2026 JoseGR. Todos los derechos reservados. All rights reserved.
+
+========================================================================
+ESPAÑOL
+========================================================================
+
+1. Quién la hizo. Astra Zip es una obra de JoseGR (https://github.com/jgr-ry).
+   El programa, su diseño, su nombre y su logotipo son de JoseGR.
+
+2. Qué puedes hacer. Instalar y usar Astra Zip, gratis, en tus propios
+   equipos, para uso personal o profesional.
+
+3. Qué no puedes hacer sin permiso por escrito de JoseGR:
+   - copiar o repartir el código fuente de Astra Zip;
+   - venderla, alquilarla o sublicenciarla;
+   - modificarla, descompilarla o desensamblarla, salvo lo que la ley te
+     permita aunque esta licencia lo prohíba;
+   - quitar o cambiar sus avisos de autoría o de licencia.
+
+4. Sin garantías. Astra Zip se entrega "tal cual". En la medida en que la
+   ley lo permita, JoseGR no responde de daños ni de pérdidas de datos que
+   vengan de usarla. Guarda copias de lo que te importe.
+
+5. Tus datos. Astra Zip no tiene servidor ni cuentas y no envía nada a
+   ningún sitio: todo pasa en tu equipo.
+
+6. Componentes de terceros. Astra Zip incluye componentes de código
+   abierto que conservan sus propias licencias (ver THIRD-PARTY.md). La
+   extracción de RAR usa el código fuente de UnRAR de Alexander Roshal
+   (RARLAB) bajo su propia licencia (licenses/UnRAR.txt): ese código no
+   puede usarse para recrear el algoritmo de compresión RAR, y Astra Zip
+   no crea archivos RAR.
+
+========================================================================
+ENGLISH
+========================================================================
+
+1. Author. Astra Zip is a work by JoseGR (https://github.com/jgr-ry). The
+   program, its design, name and logo belong to JoseGR.
+
+2. You may install and use Astra Zip for free on your own computers, for
+   personal or professional use.
+
+3. Without written permission from JoseGR you may not: copy or distribute
+   its source code; sell, rent or sublicense it; modify, decompile or
+   disassemble it (except where the law allows it regardless); remove or
+   change its authorship or licence notices.
+
+4. No warranty. Astra Zip is provided "as is". To the extent the law
+   allows, JoseGR is not liable for damage or data loss arising from its use.
+
+5. Your data. Astra Zip has no server and no accounts and sends nothing
+   anywhere: everything happens on your computer.
+
+6. Third-party components keep their own licences (see THIRD-PARTY.md).
+   RAR extraction uses RARLAB's UnRAR source under its own licence
+   (licenses/UnRAR.txt): that code may not be used to recreate the RAR
+   compression algorithm, and Astra Zip does not create RAR archives.
