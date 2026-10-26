@@ -1,0 +1,59 @@
+# Astra Zip 0.3.0
+
+2026-10-26
+
+## Novedades
+
+- Extrae sin necesitar el doble de espacio: con «Ahorrar espacio», el archivo comprimido se va vaciando mientras se extrae (ZIP, 7z y RAR por partes) y se borra al terminar.
+- «Ahorrar espacio» es opcional y viene apagado: extraer normal nunca toca ni borra tu archivo comprimido. Si paras a mitad, lo que queda sigue siendo un archivo válido. Ahora también con TAR.
+- Comprime sin necesitar el doble de espacio: «Mover al archivo comprimido» borra cada original en cuanto su copia está guardada y comprobada.
+- Si se apaga el ordenador, se cuelga o se llena el disco, el trabajo sigue donde lo dejó: aparece en Inicio con el botón Continuar.
+- Las partes .001, .002… se crean, dividen y unen sin copia extra, y añadir archivos a un ZIP grande ya no lo reescribe entero.
+
+## What's new
+
+- Extract without needing twice the space: with “Save space”, the archive empties as it is extracted (ZIP, 7z and multi-part RAR) and is deleted at the end.
+- “Save space” is optional and off by default: a normal extraction never touches or deletes your archive. If you stop halfway, what is left is still a valid archive. TAR works too now.
+- Compress without needing twice the space: “Move into the archive” deletes each original as soon as its copy is saved and checked.
+- If the computer turns off, crashes or the disk fills up, the job picks up where it stopped: it appears on Home with a Continue button.
+- .001, .002… parts are made, split and joined without an extra copy, and adding files to a big ZIP no longer rewrites all of it.
+
+## Novetats
+
+- Extreu sense necessitar el doble d’espai: amb «Estalviar espai», l’arxiu comprimit es buida mentre s’extreu (ZIP, 7z i RAR per parts) i s’esborra en acabar.
+- «Estalviar espai» és opcional i ve desactivat: extreure normal mai toca ni esborra el teu arxiu comprimit. Si t’atures a mig camí, el que queda continua sent un arxiu vàlid. Ara també amb TAR.
+- Comprimeix sense necessitar el doble d’espai: «Moure a l’arxiu comprimit» esborra cada original quan la seva còpia està desada i comprovada.
+- Si l’ordinador s’apaga, es penja o s’omple el disc, la feina continua on s’havia quedat: apareix a Inici amb el botó Continuar.
+- Les parts .001, .002… es creen, divideixen i uneixen sense còpia extra, i afegir fitxers a un ZIP gran ja no el reescriu sencer.
+
+## Nouveautés
+
+- Extraire sans avoir besoin du double d’espace : avec « Économiser l’espace », l’archive se vide pendant l’extraction (ZIP, 7z et RAR en plusieurs parties) et est supprimée à la fin.
+- « Économiser l’espace » est facultatif et désactivé par défaut : une extraction normale ne touche ni ne supprime jamais votre archive. Si vous arrêtez en cours, ce qui reste est toujours une archive valide. Fonctionne aussi avec TAR.
+- Compresser sans avoir besoin du double d’espace : « Déplacer dans l’archive » supprime chaque original dès que sa copie est enregistrée et vérifiée.
+- Si l’ordinateur s’éteint, plante ou si le disque est plein, la tâche reprend là où elle s’était arrêtée : elle apparaît dans l’Accueil avec le bouton Reprendre.
+- Les parties .001, .002… sont créées, divisées et assemblées sans copie supplémentaire, et ajouter des fichiers à un gros ZIP ne le réécrit plus en entier.
+
+## Neu
+
+- Entpacken ohne doppelten Speicherplatz: Mit „Speicherplatz sparen“ leert sich das Archiv beim Entpacken (ZIP, 7z und mehrteilige RAR) und wird am Ende gelöscht.
+- „Speicherplatz sparen“ ist optional und standardmäßig aus: Normales Entpacken verändert oder löscht dein Archiv nie. Wenn du mittendrin aufhörst, bleibt der Rest ein gültiges Archiv. Jetzt auch mit TAR.
+- Packen ohne doppelten Speicherplatz: „In das Archiv verschieben“ löscht jedes Original, sobald seine Kopie gespeichert und geprüft ist.
+- Geht der Computer aus, stürzt er ab oder ist das Laufwerk voll, macht die Aufgabe dort weiter, wo sie aufgehört hat: Sie erscheint unter Start mit Fortsetzen.
+- Teile .001, .002 … werden ohne zusätzliche Kopie erstellt, aufgeteilt und zusammengefügt, und Hinzufügen zu einem großen ZIP schreibt es nicht mehr neu.
+
+## Novità
+
+- Estrai senza bisogno del doppio dello spazio: con «Risparmia spazio» l’archivio si svuota durante l’estrazione (ZIP, 7z e RAR in più parti) e alla fine viene eliminato.
+- «Risparmia spazio» è facoltativo e disattivato di default: l’estrazione normale non tocca né elimina mai il tuo archivio. Se ti fermi a metà, ciò che resta è ancora un archivio valido. Ora anche con TAR.
+- Comprimi senza bisogno del doppio dello spazio: «Sposta nell’archivio» elimina ogni originale appena la sua copia è salvata e verificata.
+- Se il computer si spegne, si blocca o il disco si riempie, l’operazione riprende da dove si era fermata: compare nella Home con il pulsante Continua.
+- Le parti .001, .002… si creano, dividono e uniscono senza copie extra, e aggiungere file a un grande ZIP non lo riscrive più tutto.
+
+## Novidades
+
+- Extraia sem precisar do dobro do espaço: com «Poupar espaço», o arquivo esvazia-se durante a extração (ZIP, 7z e RAR em partes) e é eliminado no fim.
+- «Poupar espaço» é opcional e vem desligado: extrair normalmente nunca toca nem apaga o seu arquivo. Se parar a meio, o que resta continua a ser um arquivo válido. Agora também com TAR.
+- Comprima sem precisar do dobro do espaço: «Mover para o arquivo» elimina cada original assim que a sua cópia está guardada e verificada.
+- Se o computador se desligar, bloquear ou o disco encher, a tarefa continua onde parou: aparece no Início com o botão Continuar.
+- As partes .001, .002… são criadas, divididas e juntas sem cópia extra, e adicionar ficheiros a um ZIP grande já não o reescreve todo.
